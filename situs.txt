@@ -1,3 +1,7 @@
+https://fs.hlrs.de/projects/par/events/2023/JSC/README.html
+
 Hybrid Programming in HPC - MPI+X: https://moodle.nhr.fau.de/course/view.php?id=20
 
 Deep Learning and GPU Programming Workshop: https://doku.lrz.de/deep-learning-and-gpu-programming-workshop-lrz-2023-195630651.html
+
+Debugging and Optimising Parallel Codes with Linaro Forge: https://doku.lrz.de/debugging-and-optimising-parallel-codes-with-linaro-forge-458129623.html
