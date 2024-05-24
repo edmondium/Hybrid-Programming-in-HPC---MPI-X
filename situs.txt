@@ -1,5 +1,7 @@
 https://fs.hlrs.de/projects/par/events/2023/JSC/README.html
 
+https://www.hlrs.de/training/self-study-materials/mpi-course-material
+
 Hybrid Programming in HPC - MPI+X: https://moodle.nhr.fau.de/course/view.php?id=20
 
 Deep Learning and GPU Programming Workshop: https://doku.lrz.de/deep-learning-and-gpu-programming-workshop-lrz-2023-195630651.html
